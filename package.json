@@ -1,5 +1,5 @@
 {
-  "name": "@docktron-rc",
+  "name": "root",
   "private": false,
   "devDependencies": {
     "lerna": "^3.10.7"
