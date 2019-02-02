@@ -1,6 +1,17 @@
 {
   "name": "docktron-rc",
   "private": true,
+  "version": "0.0.3-alpha.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "leon3s",
+  "license": "ISC",
   "devDependencies": {
     "lerna": "^3.10.7"
   }
