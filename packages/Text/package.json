@@ -1,5 +1,5 @@
 {
-  "name": "@docktron-rc/text",
+  "name": "@docktron/rc/text",
   "version": "0.0.4-alpha.0",
   "description": "",
   "main": "index.js",
